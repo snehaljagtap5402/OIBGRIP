@@ -1,0 +1,34 @@
+
+h1{
+    text-align: center;
+    
+}
+h3
+{
+    text-align: center;
+    color: rgb(233, 23, 23);
+}
+
+.image{
+
+    text-align: center;
+    
+
+
+
+}
+
+
+.container
+{
+
+    text-align: justify;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 900px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: rgba(247, 211, 183, 0.815);
+    border: 8px solid black;
+}
+
